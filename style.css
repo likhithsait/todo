@@ -4,9 +4,13 @@ body {
   margin-top: 50px;
   background-color: #f9f9f9;
 }
+body h1{
+  color: rebeccapurple;
+}
 
 .input-area {
   margin-bottom: 20px;
+
 }
 
 #taskInput {
